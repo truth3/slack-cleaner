@@ -2,6 +2,9 @@
 
 This PHP utility will help you download your Slack files when you reach the free account upload limit.
 
+![storage limit reached](https://user-images.githubusercontent.com/7986768/40818119-9ff6b816-6523-11e8-92be-c1dbbac9c5fb.png)
+
+
 ## Slack API Authentication
 
 The actions can be run locally after you add your API key to the "slack_keys.php" file in the auth folder.
